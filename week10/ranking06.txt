@@ -1,0 +1,13 @@
+-----------------------------------------
+RANKING06 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W06-004] 380 https://variel-os.blogspot.co.id/2017/12/ulasan-2-week-06-multithreading-models.html
+02. [W06-005] 375 http://arkhainnovation.blogspot.co.id/2017/12/ulasan-02-difference-between-process.html
+03. [W06-003] 373 https://os-asaveroo.blogspot.com/2017/12/ulasan-2-fork-bomb.html
+04. [W06-002] 370 https://nao-cyber-journey.blogspot.com/2017/12/ulasan1-processes-and-threads.html
+-----------------------------------------
+Oleh (GITHUB): bagasmdputra
+URL BLOG RANKING: https://acawriting.blogspot.co.id/2017/12/rangking05.html
+Revisi Pertama:9 Desember 2017
+Revisi Terakhir: 9 Desember 2017
+-----------------------------------------

@@ -1,0 +1,1 @@
+We learn about how to use GIT and operate it in terminal from linux environment. We also learn to scripting in terminal

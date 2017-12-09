@@ -1,0 +1,23 @@
+-----------------------------------------
+RANKING02 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+
+01. [W02-005] 400 https://amiraluth.blogspot.co.id/2017/11/ulasan-2-encryption.html
+02. [W02-009] 399 http://bmnugraha.blogspot.co.id/2017/12/the-internet-encryption-public-keys.html
+03. [W02-022] 399 https://megamutiarah.blogspot.co.id/2017/12/ulasan-1-how-does-individual-file.html
+04. [W02-006] 398 https://ernestandersonhutasoit.blogspot.co.id/2017/11/ulasan-1-definisi-dan-macam-macam-virus.html
+05. [W02-008] 397 http://regensa.blogspot.co.id/2017/12/ulasan1.html
+06. [W02-012] 396 https://alyaph.blogspot.co.id/2017/12/ulasan-1-worm-iloveyou.html
+07. [W02-001] 395 https://mfauzanfikri.blogspot.co.id/2017/11/ulasan-2-public-key-cryptography-diffie.html
+08. [W02-019] 385 http://2ez4adz.blogspot.co.id/2017/12/5-virus-komputer-terburuk.html
+09. [W02-020] 384 http://farhanj04.blogspot.co.id/2017/12/ulasan-2-do-i-need-antivirus-in-linux.html
+10. [W02-017] 382 http://hashlash-os172.blogspot.co.id/2017/12/ulasan-1-google-shatters-sha-1.html
+11. [W02-011]  381 https://os-adrikanovrialdi.blogspot.co.id/2017/12/ulasan-1-wanna-crypt-all-of-your-files.html
+12. [W02-014] 381 http://febrianfikar.blogspot.co.id/2017/11/encryption-padlocks-and-back-doors.html
+
+-----------------------------------------
+Oleh (GITHUB): bagasmdputra
+URL BLOG RANKING: https://acawriting.blogspot.co.id/2017/12/rangking01.html
+Revisi Pertama:9 Desember 2017
+Revisi Terakhir: 9 Desember 2017
+-----------------------------------------

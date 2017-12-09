@@ -1,0 +1,14 @@
+-----------------------------------------
+RANKING04 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+
+01. [W02-003] 399 http://gheafanywp.blogspot.co.id/2017/11/program-threats-and-system-threats.html
+02. [W04-002] 370 https://os-agasyan.blogspot.co.id/2017/12/ulasan-1-pointers-and-arrays-in-cc.html
+03. [W04-001] 365 http://azharkurnia-os.blogspot.co.id/2017/12/ulasan-2.html
+
+-----------------------------------------
+Oleh (GITHUB): bagasmdputra
+URL BLOG RANKING: http://acawriting.blogspot.co.id/2017/12/ranking03-ulasan-peserta-os-2017-2-01.html
+Revisi Pertama:9 Desember 2017
+Revisi Terakhir: 9 Desember 2017
+-----------------------------------------

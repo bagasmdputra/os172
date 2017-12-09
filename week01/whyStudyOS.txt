@@ -1,0 +1,3 @@
+#bagasmdputra
+
+We need to study OS because OS is the bridge for IAAS to be connected to SAAS. It is important to know how Operating system work to understand the fundamental of Computer work. However, it is a must to pass this subject to get bachelor.
